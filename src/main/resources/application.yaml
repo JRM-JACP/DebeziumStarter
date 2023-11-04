@@ -1,0 +1,4 @@
+debezium:
+    serverUrl: 'http://localhost:8083'
+    connectorsUrl: '/connectors'
+    configsFilePath: 'connectors'
